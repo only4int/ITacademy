@@ -1,0 +1,36 @@
+.rectangle {
+    width: 400px;
+    height: 200px;
+	background: brown;
+	}
+div{
+	position: fixed;
+	}
+.home{
+	top: 300px;
+	left: 500px;
+	}
+.triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 210px solid transparent;
+    border-right: 210px solid transparent;
+    border-bottom: 150px solid black;
+    }
+ .roof{
+	top: 150px;
+	left: 490px;
+ }
+ .windows{
+	top: 345px;
+	left: 570px;
+	width: 70px;
+ }
+ .windows > div{
+	 background:#fff;
+	 position: relative;
+	 margin:5px;
+	 float: left;
+	 width: 25px;
+	 height: 40px;
+ }
