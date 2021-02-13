@@ -1,3 +1,11 @@
+.container{
+  width: 1200px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  margin: 50px auto;
+  padding: 15px;
+}
 .sparrow{
   padding-left: 20px;
   background: url(../sparrow.png) no-repeat;
