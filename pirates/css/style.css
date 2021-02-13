@@ -3,6 +3,11 @@
   background: url(../sparrow.png) no-repeat;
   background-size: 20px 20px;
 }
+.pirate{
+  padding-left: 20px;
+  background: url(../pirate.png) no-repeat;
+  background-size: 20px 20px;
+}
 img{
   text-align: center;
   min-width: 500px;
