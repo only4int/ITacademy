@@ -1,0 +1,12 @@
+.sparrow{
+  padding-left: 40px;
+  background: url(../img/sparrow.png) no-repeat;
+}
+img{
+  text-align: center;
+  min-width: 500px;
+}
+h2{
+  font-size: 28px;
+  color: aqua;
+}
